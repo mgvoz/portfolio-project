@@ -1,2 +1,1 @@
-portfolio project tutorial
-Practice with React and Bootstrap together
+Portfolio Project Tutorial --- for practice with React and Bootstrap together.
